@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ad73771.css",
+    "main.js": "/static/js/main.9ef5dffd.js",
+    "static/media/cat-2.jpg": "/static/media/cat-2.c783bc351239091a6ba7.jpg",
+    "static/media/cat-3.jpg": "/static/media/cat-3.a8441fd9d3326934ed92.jpg",
+    "static/media/cat-1.jpg": "/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/cat-4.jpg": "/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
+    "static/media/banner-img.png": "/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/speaker-prod-3.webp": "/static/media/speaker-prod-3.171d61c75a6ff02f39ae.webp",
+    "static/media/speaker-prod-2.webp": "/static/media/speaker-prod-2.3d7d2e99c70aca629a57.webp",
+    "static/media/speaker-prod-4.webp": "/static/media/speaker-prod-4.eb364fc82b627804c684.webp",
+    "static/media/headphone-prod-1.webp": "/static/media/headphone-prod-1.49810a1a193aa5efb36b.webp",
+    "static/media/headphone-prod-2.webp": "/static/media/headphone-prod-2.62c9faa99a0770201113.webp",
+    "static/media/watch-prod-2.webp": "/static/media/watch-prod-2.d396cef66ae80ed71919.webp",
+    "static/media/headphone-prod-3.webp": "/static/media/headphone-prod-3.569440e673fc3245c822.webp",
+    "static/media/watch-prod-4.webp": "/static/media/watch-prod-4.afd852d2b35fef86e888.webp",
+    "static/media/headphone-prod-4.webp": "/static/media/headphone-prod-4.e29d57f5084215030f91.webp",
+    "static/media/earbuds-prod-4.webp": "/static/media/earbuds-prod-4.3da5a36747aae317d82e.webp",
+    "static/media/earbuds-prod-2.webp": "/static/media/earbuds-prod-2.67477bdbf3f67b3f559d.webp",
+    "static/media/watch-prod-1.webp": "/static/media/watch-prod-1.50f973edaaeb9a581ab0.webp",
+    "static/media/watch-prod-3.webp": "/static/media/watch-prod-3.7cd90926daa3c6f029a2.webp",
+    "static/media/speaker-prod-1.webp": "/static/media/speaker-prod-1.92704e4cebd276042973.webp",
+    "static/media/earbuds-prod-3.webp": "/static/media/earbuds-prod-3.a317d55b6ddd68ea73b7.webp",
+    "static/media/earbuds-prod-1.webp": "/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "index.html": "/index.html",
+    "main.4ad73771.css.map": "/static/css/main.4ad73771.css.map",
+    "main.9ef5dffd.js.map": "/static/js/main.9ef5dffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad73771.css",
+    "static/js/main.9ef5dffd.js"
+  ]
+}

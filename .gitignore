@@ -19,7 +19,6 @@ sketch
 license.txt
 exports
 *.cache
-build
 .strapi-updater.json
 
 ############################
